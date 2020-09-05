@@ -4,7 +4,7 @@
 Portfolio of data science projects
 
 # Project 1: Analyzing the 2017 Houston Astros Cheating Scandal
-x Did a basic exploartoy analysis of the 2017 which confirms a stat boost coninciding with their cheating.
-v analzyed over 8000 pitches from home games to find which players used and benefited most from the sign stealing scheme.
-^ asdfas
-x asdfsadfdsf
+* Did a basic exploartoy analysis of the 2017 which confirms a stat boost coninciding with their cheating.
+* analzyed over 8000 pitches from home games to find which players used and benefited most from the sign stealing scheme.
+* asdfas
+* asdfsadfdsf
