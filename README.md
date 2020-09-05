@@ -1,4 +1,3 @@
-# Andrew Maxwell Hanson
 andrew.maxwell.hanson@gmail.com
 
 Portfolio of my data science projects
