@@ -1,4 +1,5 @@
 andrew.maxwell.hanson@gmail.com
+
 Portfolio of my data science projects
 ## [Project 1: Analyzing the 2017 Houston Astros Cheating Scandal](https://github.com/handyanson/Astros-Cheating-Project/tree/master/astros-project)
 * Did a basic exploratory analysis of the 2017 which confirms a stat boost coinciding with their cheating.
