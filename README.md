@@ -17,5 +17,5 @@ Portfolio of my data science projects
 * Get better predicted values using player modeling and gibbs sampling, rather than linear regression and uniform distributions. The R^2 values were around, and less than 50%. Those values are not at all good at predicting, and so a better more accurate model predicting player statistics needs to be used.
 * Use a different model taking into account different statistics. This model weighs equally, overall, pitcher, and batter statistics, possibly diminishing the effect of advantages gained through sign-stealing.
 
-
+[Project Presentation Video](https://www.youtube.com/watch?v=P0FXeKkjiGc)
 
