@@ -7,9 +7,9 @@ Portfolio of my data science projects
 * Built a model to predict the outcome the 2017 season.  
 * Utilized a Mann-Whitney U test our hypothesis
 ![](Images/astors%20BA%202017.png)
-![](/Images/Screenshot_2020-09-05%20Final%20-%20Jupyter%20Notebook.png)
-![](/Images/2017%20advantage.png)
-![](/Images/2016%20advantage.png)
+![](Images/Screenshot_2020-09-05%20Final%20-%20Jupyter%20Notebook.png)
+![](Images/2017%20advantage.png)
+![](Images/2016%20advantage.png)
 ### Key Takeaways
 * We are unable to reject the null hypothesis that better stats caused by sign-stealing improved their chances of winning.
 * We are unable to reject the null hypothesis that advantages gained due to sign stealing improved their advantage over their opponent.
